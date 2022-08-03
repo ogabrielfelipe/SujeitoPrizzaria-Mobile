@@ -1,6 +1,6 @@
 # SujeitoPrizzaria-Mobile
-###### Backend que serve as APIs que são utilizadas pelo aplicativo: <a href="https://github.com/ogabrielfelipe/SujeitoPizzaria-Backend">Servidor</a>.
-###### Sistema Web de controle dos pedidos abertos: <a href="https://github.com/ogabrielfelipe/SujeitoPizzaria-Web">Web</a>.
+  - Backend que serve as APIs que são utilizadas pelo aplicativo: <a href="https://github.com/ogabrielfelipe/SujeitoPizzaria-Backend">Servidor</a>.
+  - Sistema Web de controle dos pedidos abertos: <a href="https://github.com/ogabrielfelipe/SujeitoPizzaria-Web">Web</a>.
 
 #### Tela de login
 
